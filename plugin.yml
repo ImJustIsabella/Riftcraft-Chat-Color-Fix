@@ -1,0 +1,5 @@
+name: RiftCraft_ChatFix
+author: Isabellaa_
+version: 1.0
+api-version: 1.14
+main: com.riftcraftsmp.chatfix.Main
